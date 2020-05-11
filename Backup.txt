@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+  <body>
+    <h1 class="header-title">Welcome to my page</h1>
+    <p title="This is my website content!">See my world here</p>
+      Click here to go to <a href="contact.html" target="-_blank">My Contact</a>
+      <p></p>
+    <a href="#about-me">About-me  </a>
+      <div id="about-me">
+        		
+      </div>
+  </body>
+</html>
