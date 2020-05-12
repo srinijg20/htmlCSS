@@ -13,7 +13,6 @@ nav {
   height: 100px;
   background-color: #fff;
 }
-
 ul {
 
 }
@@ -44,4 +43,54 @@ ul li a:hover {
   font-family: fantasy;
   color : black;
   padding: 0 20px;
+}
+
+a {
+   display: block;
+   text-decoration: none;
+   font-size: 16;
+   font-family: fantasy;
+   font-weight: normal;
+   color : red;
+   padding: 0 20px;
+}
+
+.wrapper-learning {
+  margin: 0 auto 0 60px;
+  width: 1200px;
+  background-color: #fff;
+}
+
+.wrapper-learning ol {
+  float: right;
+  padding-left: 20px;
+}
+/*
+.wrapper-learning ol li {
+  float: right;
+  display: inline-block;
+  list-style-type: circle;
+  line-height:100px;
+}*/
+
+.wrapper-learning ol li a {
+   text-decoration: underline;
+   font-size: 12;
+   font-family: fantasy;
+   font-weight: normal;
+   color : green;
+   padding: 0 20px;
+}
+
+.wrapper-learning div iframe {
+  padding: 10px 2px 10px 0px;
+
+}
+
+.wrapper-learning ul li a:hover {
+  color: red;
+}
+.wrapper a {
+  float: bottom;
+  padding: 20px;
 }
